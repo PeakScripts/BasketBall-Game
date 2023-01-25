@@ -2,8 +2,8 @@
 Basket Ball game written in Python
 
 # 📁 〢 Setting up SnakeGame
-1. Install Python
-2. Install The Game
+1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
+2. Install [The Game](https://github.com/DtKdPython/BasketBall-Game/archive/refs/heads/main.zip)
 3. Run the BasketBall
 
 # The Game:
