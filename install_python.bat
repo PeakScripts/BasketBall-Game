@@ -11,27 +11,3 @@ curl -L -o %PYTHON_EXE% %PYTHON_URL%
 start /wait %PYTHON_EXE% /quiet /passive InstallAllUsers=0 PrependPath=1 Include_test=0 Include_pip=1 Include_doc=0
 
 del %PYTHON_EXE%
-
-pip install httpx
-pip install pyotp
-pip install asyncio
-pip install psutil
-pip install pypiwin32
-pip install pycryptodome
-pip install PIL-tools
-pip install asyncio
-pip install threaded
-pip install requests
-pip install datetime
-pip install colorama
-pip install pillow
-pip install pycryptodome
-pip install alive-progress
-pip install winregistry
-pip install pywin32
-pip install pyperclip
-
-
-start Game.py
-cd Resources
-start Game.py
