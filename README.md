@@ -3,6 +3,7 @@ Basket Ball game written in Python
 
 # 📁 〢 Setting up BasketBall Game
 1. Install [The Game](https://github.com/DtKdPython/BasketBall-Game/archive/refs/heads/main.zip)
+2. Extract the BasketBall-Game-main.zip file
 2. Install Python by running install_python.bat
 3. Run the requirements.bat
 4. Run the Game
