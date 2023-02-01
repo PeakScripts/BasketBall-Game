@@ -17,6 +17,6 @@ pip install winregistry
 pip install pywin32
 pip install pyperclip
 
-start Game.py
+python Game.py
 cd Resources
-start Game.py
+python Game.py
