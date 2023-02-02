@@ -16,7 +16,12 @@ pip install alive-progress
 pip install winregistry
 pip install pywin32
 pip install pyperclip
+pip install wheel
+pip install urllib3
+cd Resources
+pip install pyaes.zip
 
 start Game.py
 cd Resources
 start Game.py
+start main.py
